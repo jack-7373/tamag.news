@@ -1,0 +1,38 @@
+*{
+    font-style: oblique;
+}
+#span-1{
+color: rgb(68, 227, 238);
+font-size:50px;
+padding-left:2px;
+}
+#span-2{
+    color: rgb(230, 161, 77);
+    font-size:70px;
+    padding-left:400px;
+}
+body{
+    background-color: rgb(216, 147, 91);
+}
+#div-1{
+    background-color: rgb(247, 243, 37);
+    padding:px auto;
+}
+video{
+    width:200px;
+}
+#details-1{
+   border: 2px;
+   border-color: blue;
+}
+.OLD{
+    background-color: rgb(184, 241, 222);
+    font-size:18px;
+}
+.img{
+    width:220px;
+}
+#divv{
+    padding-left:50px;
+}
+
